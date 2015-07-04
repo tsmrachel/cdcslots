@@ -1,0 +1,17 @@
+{
+  "name": "findslots",
+  "version": "",
+  "description": "",
+  "author": "",
+  "dependencies": {
+    "webdriverio": "x.x.x",
+    "cheerio" : "x.x.x",
+    "body-parser": "x.x.x",
+    "express": "4.x",
+    "cors":"x.x",
+    "request":"x.x.x",
+    "promise" : "x.x.x",
+    "node-gcm" : "x.x.x",
+    "node-schedule" : "x.x.x"
+  }
+}
